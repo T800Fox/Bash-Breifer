@@ -1,4 +1,4 @@
 # Bash-Breifer
-A little shell designed for MacOS that is placed in the .bashrc (or equivalent) folder and displays the device’s ip and mac address in any new terminal of the window.
+Am too lazy to type ifconfig every time I open a terminal.
 
-It has only been tested on MacOS, but could work on other linux machines.
+Put the shell in the file that runs when you make a new terminal.
